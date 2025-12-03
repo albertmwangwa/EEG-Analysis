@@ -1,0 +1,3 @@
+state_id,n,mean_mae,median_mae,stress_like
+1,3270,0.1916732,0.13622478,True
+0,1229,0.054799117,0.05347241,False

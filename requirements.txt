@@ -5,3 +5,11 @@ seaborn>=0.11.0
 scikit-learn>=1.0.0
 mne>=1.0.0
 jupyter>=1.0.0
+# tensorflow>=2.12.0 # Not used in new code, but keeping if user needs it
+torch
+torchvision
+fastapi
+uvicorn
+opencv-python
+tqdm
+scipy
